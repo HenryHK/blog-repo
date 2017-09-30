@@ -75,6 +75,7 @@ pagination_dir: page
 theme: hexo-theme-typography
 archive_generator:
   per_page: 0
+
 plugin:
   - hexo-generator-feed
 #Feed Atom
