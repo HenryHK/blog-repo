@@ -78,6 +78,8 @@ Also, there are some pretty good software on Ubuntu to make it a good OS:
 
 * [fcitx - input method framework supporting many Chinese input methods](https://fcitx-im.org/wiki/Special:MyLanguage/Fcitx)
 
+* [albert - A spotlight-like software on Linux](https://github.com/albertlauncher/albert) (P.S. if you are using Ubuntu, you may need CompizConfig Settings Manager in order to diable `alt` related hotkeys to use `alt+space` shortcuts for calling albert)
+
 All the above software can be easily installed and requires few configurations.
 
 If you encounter any dependency problems when install `.deb`, try the following commands:
