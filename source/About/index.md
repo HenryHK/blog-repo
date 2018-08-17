@@ -8,15 +8,13 @@ This is my personal blog hosted on GitHub Pages.
 ### About me
 
 
-* I'm a programmer using Java, Python, Node, Golang, and with great interest in functional programming
+* I'm a programmer using Java, Python, Node, Golang, and with great interest in functional programming.
 
-* I'm currently a part-time _Quant Developer_ at BFJ Funds in Sydney.
+* I'm currently a _consultant_@Servian in Sydney.
 
-* I'm currently a master of IT student in the University of Sydney
+* Master of IT&IT Management@USYD, Bachelor of Computer Science@HKU.
 
-* I gained my bachelor degree of Computer Science from the University of Hong Kong
-
-* I was born in Shandong, China and spent my first 18 years there.
+* 18 years@Mainland, China; 4 years in HK; now in Sydney, Australia.
 
 
 Hopefully, this blog can share some interesting things or you can find something helpful here.
